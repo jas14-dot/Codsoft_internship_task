@@ -1,5 +1,5 @@
 # Codsoft_internship_task
-Live demo:https://jasleen-portfolio.netlify.app/       (Task 1 Portfolio)
+Live demo:https://jasleen-portfolio.netlify.app      (Task 1 Portfolio)
 
 
 
